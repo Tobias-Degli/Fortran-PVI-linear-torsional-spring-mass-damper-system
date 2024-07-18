@@ -1,0 +1,8 @@
+Definir o número de graus de liberdade
+8
+Definir um range pro (numero de pontos n)
+10000
+Vetor de intervalo em t
+0 0.1
+Vetor de valores ininciais y0
+0.1 0.12 0.14 0.24 0 0 0 0
